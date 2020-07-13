@@ -1,0 +1,37 @@
+.item {
+  display: flex;
+  align-items: center;
+  width: 400px;
+  box-shadow: 2px 2px 2px #a3a1a1;
+  margin-bottom: 40px;
+  border-radius: 2%;
+  padding: 10px;
+}
+
+.statusOn {
+  display: block;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background-color: aquamarine;
+  margin-right: 10px;
+}
+
+.statusOff {
+  display: block;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background-color: brown;
+  margin-right: 10px;
+}
+.avatar {
+  border-radius: 10%;
+  width: 100px;
+  height: 100%;
+  margin-right: 10px;
+}
+.name {
+  font-size: 20px;
+  font-weight: bold;
+}

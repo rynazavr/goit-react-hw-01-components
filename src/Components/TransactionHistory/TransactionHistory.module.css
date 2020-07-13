@@ -1,0 +1,12 @@
+.table {
+  background-color: #c5c5c5;
+  width: 600px;
+  text-align: center;
+  padding: 18px 28px 18px;
+  margin: 0 auto;
+}
+.trr {
+  font-weight: bold;
+  text-transform: uppercase;
+  background-color: #33cfff;
+}

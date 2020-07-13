@@ -1,0 +1,19 @@
+.item {
+  width: 67px;
+  height: 60px;
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: blueviolet;
+  color: #ffffff;
+  font-family: "ProximaNova";
+}
+.label {
+  font-size: 12px;
+  line-height: 1.667;
+}
+.pecentage {
+  font-size: 18px;
+}
